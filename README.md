@@ -12,3 +12,4 @@ https://neetcode.io/roadmap
 | 49  | [Group Anagrams](https://leetcode.com/problems/two-sum/)                                    | Medium     | [TypeScript](./TypeScript/49.group-anagrams.ts)                |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | Medium     | [TypeScript](./TypeScript/347.top-k-frequent-elements.ts)      |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | [TypeScript](./TypeScript/238.product-of-array-except-self.ts) |
+| 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | Medium     | [TypeScript](./TypeScript/36.valid-sudoku.ts)                  |
