@@ -13,3 +13,4 @@ https://neetcode.io/roadmap
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)           | Medium     | [TypeScript](./TypeScript/347.top-k-frequent-elements.ts)      |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | [TypeScript](./TypeScript/238.product-of-array-except-self.ts) |
 | 36  | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | Medium     | [TypeScript](./TypeScript/36.valid-sudoku.ts)                  |
+| 659 | [Encode and Decode Strings](https://www.lintcode.com/problem/659/)                          | Medium     | [TypeScript](./TypeScript/659.encode-and-decode-strings.ts)    |
