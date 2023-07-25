@@ -17,3 +17,4 @@ https://neetcode.io/roadmap
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)           | Medium     | [TypeScript](./TypeScript/128.longest-consecutive-sequence.ts)     | Arrays & Hashing |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                   | Easy       | [TypeScript](./TypeScript/125.valid-palindrome.ts)                 | Two Pointers     |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | [TypeScript](./TypeScript/167.two-sum-ii-input-array-is-sorted.ts) | Two Pointers     |
+| 15  | [3Sum](https://leetcode.com/problems/3sum/)                                                           | Medium     | [TypeScript](./TypeScript/15.3sum.ts)                              | Two Pointers     |
