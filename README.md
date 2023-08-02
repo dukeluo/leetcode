@@ -21,3 +21,4 @@ https://neetcode.io/roadmap
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)                 | Medium     | [TypeScript](./TypeScript/11.container-with-most-water.ts)         | Two Pointers     |
 | 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                             | Hard       | [TypeScript](./TypeScript/42.trapping-rain-water.ts)               | Two Pointers     |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                 | Easy       | [TypeScript](./TypeScript/20.valid-parentheses.ts)                 | Stack            |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                 | Medium     | [TypeScript](./TypeScript/155.min-stack.ts)                        | Stack            |
