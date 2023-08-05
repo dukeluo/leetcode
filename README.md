@@ -23,3 +23,4 @@ https://neetcode.io/roadmap
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                 | Easy       | [TypeScript](./TypeScript/20.valid-parentheses.ts)                 | Stack            |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                 | Medium     | [TypeScript](./TypeScript/155.min-stack.ts)                        | Stack            |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)   | Medium     | [TypeScript](./TypeScript/150.evaluate-reverse-polish-notation.ts) | Stack            |
+| 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                           | Medium     | [TypeScript](./TypeScript/150.evaluate-reverse-polish-notation.ts) | Stack            |
