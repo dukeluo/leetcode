@@ -24,3 +24,4 @@ https://neetcode.io/roadmap
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                 | Medium     | [TypeScript](./TypeScript/155.min-stack.ts)                        | Stack            |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)   | Medium     | [TypeScript](./TypeScript/150.evaluate-reverse-polish-notation.ts) | Stack            |
 | 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                           | Medium     | [TypeScript](./TypeScript/22.generate-parentheses.ts)              | Stack            |
+| 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                               | Medium     | [TypeScript](./TypeScript/739.daily-temperatures.ts)               | Stack            |
