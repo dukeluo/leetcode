@@ -25,3 +25,4 @@ https://neetcode.io/roadmap
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)   | Medium     | [TypeScript](./TypeScript/150.evaluate-reverse-polish-notation.ts) | Stack            |
 | 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                           | Medium     | [TypeScript](./TypeScript/22.generate-parentheses.ts)              | Stack            |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                               | Medium     | [TypeScript](./TypeScript/739.daily-temperatures.ts)               | Stack            |
+| 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/)                                                 | Medium     | [TypeScript](./TypeScript/853.car-fleet.ts)                        | Stack            |
