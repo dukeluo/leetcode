@@ -26,3 +26,4 @@ https://neetcode.io/roadmap
 | 22  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)                           | Medium     | [TypeScript](./TypeScript/22.generate-parentheses.ts)              | Stack            |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                               | Medium     | [TypeScript](./TypeScript/739.daily-temperatures.ts)               | Stack            |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/)                                                 | Medium     | [TypeScript](./TypeScript/853.car-fleet.ts)                        | Stack            |
+| 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)       | Hard       | [TypeScript](./TypeScript/84.largest-rectangle-in-histogram.ts)    | Stack            |
