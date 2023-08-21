@@ -27,3 +27,4 @@ https://neetcode.io/roadmap
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                               | Medium     | [TypeScript](./TypeScript/739.daily-temperatures.ts)               | Stack            |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/)                                                 | Medium     | [TypeScript](./TypeScript/853.car-fleet.ts)                        | Stack            |
 | 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)       | Hard       | [TypeScript](./TypeScript/84.largest-rectangle-in-histogram.ts)    | Stack            |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                         | Easy       | [TypeScript](./TypeScript/704.binary-search.ts)                    | Binary Search    |
