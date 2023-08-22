@@ -28,3 +28,4 @@ https://neetcode.io/roadmap
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/)                                                 | Medium     | [TypeScript](./TypeScript/853.car-fleet.ts)                        | Stack            |
 | 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)       | Hard       | [TypeScript](./TypeScript/84.largest-rectangle-in-histogram.ts)    | Stack            |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                         | Easy       | [TypeScript](./TypeScript/704.binary-search.ts)                    | Binary Search    |
+| 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                               | Medium     | [TypeScript](./TypeScript/74.search-a-2d-matrix.ts)                | Binary Search    |
