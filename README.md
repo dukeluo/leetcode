@@ -29,4 +29,4 @@ https://neetcode.io/roadmap
 | 84  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)       | Hard       | [TypeScript](./TypeScript/84.largest-rectangle-in-histogram.ts)    | Stack            |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                         | Easy       | [TypeScript](./TypeScript/704.binary-search.ts)                    | Binary Search    |
 | 74  | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)                               | Medium     | [TypeScript](./TypeScript/74.search-a-2d-matrix.ts)                | Binary Search    |
-| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                             | Medium     | [TypeScript](./TypeScript/74.search-a-2d-matrix.ts)                | Binary Search    |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                             | Medium     | [TypeScript](./TypeScript/875.koko-eating-bananas.ts)              | Binary Search    |
