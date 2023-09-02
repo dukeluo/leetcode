@@ -2,7 +2,7 @@
 
 https://neetcode.io/roadmap
 
-### Leetcode
+### NeetCode
 
 | #   | Title                                                                                                                           | Difficulty | Solution                                                                       | Category         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------ | ---------------- |
@@ -32,3 +32,9 @@ https://neetcode.io/roadmap
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                       | Medium     | [TypeScript](./TypeScript/875.koko-eating-bananas.ts)                          | Binary Search    |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium     | [TypeScript](./TypeScript/153.find-minimum-in-rotated-sorted-array.ts)         | Binary Search    |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [TypeScript](./TypeScript/3.longest-substring-without-repeating-characters.ts) | Sliding Window   |
+
+### Others
+
+| #    | Title                                                                                                                                             | Difficulty | Solution                                                                                   | Category     |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------ | ------------ |
+| 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | Medium     | [TypeScript](./TypeScript/2414.length-of-the-longest-alphabetical-continuous-substring.ts) | Two Pointers |
