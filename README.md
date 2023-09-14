@@ -32,6 +32,7 @@ https://neetcode.io/roadmap
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                                       | Medium     | [TypeScript](./TypeScript/875.koko-eating-bananas.ts)                          | Binary Search    |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)                     | Medium     | [TypeScript](./TypeScript/153.find-minimum-in-rotated-sorted-array.ts)         | Binary Search    |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)                                 | Medium     | [TypeScript](./TypeScript/33.search-in-rotated-sorted-array.ts)                | Binary Search    |
+| 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)                                         | Medium     | [TypeScript](./TypeScript/981.time-based-key-value-store.ts)                   | Binary Search    |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       | [TypeScript](./TypeScript/121.best-time-to-buy-and-sell-stock.ts)              | Sliding Window   |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [TypeScript](./TypeScript/3.longest-substring-without-repeating-characters.ts) | Sliding Window   |
 
