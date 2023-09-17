@@ -36,6 +36,7 @@ https://neetcode.io/roadmap
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | Easy       | [TypeScript](./TypeScript/121.best-time-to-buy-and-sell-stock.ts)              | Sliding Window   |
 | 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium     | [TypeScript](./TypeScript/3.longest-substring-without-repeating-characters.ts) | Sliding Window   |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)               | Medium     | [TypeScript](./TypeScript/424.longest-repeating-character-replacement.ts)      | Sliding Window   |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       | [TypeScript](./TypeScript/206.reverse-linked-list.ts)                          | Linked List      |
 
 ### Others
 
