@@ -1,15 +1,6 @@
-// (define (rev l)
-//     (if (null? (cdr l))
-//         l
-//         (append (rev (cdr l)) (list (car l)))))
-
-class ListNode {
+interface ListNode {
   val: number;
   next: ListNode | null;
-  constructor(val?: number, next?: ListNode | null) {
-    this.val = val === undefined ? 0 : val;
-    this.next = next === undefined ? null : next;
-  }
 }
 
 function reverseList(head: ListNode | null): ListNode | null {
