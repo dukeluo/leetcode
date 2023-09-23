@@ -1,10 +1,20 @@
 [![X Follow][x-image]][x-url]
 
-### Roadmap
+### How to Start
 
-https://neetcode.io/roadmap
+TypeScript:
+
+- Install [Deno](https://deno.com/) with Homebrew: `brew install deno`
+- Run the code: `deno run TypeScript/206.reverse-linked-list.ts`
+
+Racket:
+
+- Install [Racket](https://racket-lang.org/) with Homebrew: `brew install minimal-racket`
+- Run the code: `racket Racket/206.reverse-linked-list.rkt`
 
 ### NeetCode
+
+Roadmap: https://neetcode.io/roadmap
 
 | #   | Title                                                                                                                           | Difficulty | Solution                                                                                      | Category         |
 | --- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------- | ---------------- |
