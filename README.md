@@ -1,3 +1,5 @@
+[![X Follow][x-image]][x-url]
+
 ### Roadmap
 
 https://neetcode.io/roadmap
@@ -47,3 +49,6 @@ https://neetcode.io/roadmap
 | #    | Title                                                                                                                                             | Difficulty | Solution                                                                           | Category     |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------- | ------------ |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | Medium     | [ts](./TypeScript/2414.length-of-the-longest-alphabetical-continuous-substring.ts) | Two Pointers |
+
+[x-image]: https://img.shields.io/badge/follow-ihuanluo-black?logo=x
+[x-url]: https://twitter.com/ihuanluo
