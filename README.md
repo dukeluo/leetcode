@@ -40,6 +40,7 @@ https://neetcode.io/roadmap
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                       | Easy       | [ts](./TypeScript/206.reverse-linked-list.ts) [rkt](./Racket/206.reverse-linked-list.rkt)     | Linked List      |
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                 | Easy       | [ts](./TypeScript/21.merge-two-sorted-lists.ts) [rkt](./Racket/21.merge-two-sorted-lists.rkt) | Linked List      |
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Medium     | [ts](./TypeScript/143.reorder-list.ts)                                                        | Linked List      |
+| 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Medium     | [ts](./TypeScript/19.remove-nth-node-from-end-of-list.ts)                                     | Linked List      |
 
 ### Others
 
