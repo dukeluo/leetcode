@@ -36,3 +36,26 @@ function copyRandomList(head: MyNode | null): MyNode | null {
 
   return dummy.next;
 }
+
+function copyRandomList2(head: MyNode | null): MyNode | null {
+  const map = new Map<MyNode | null, MyNode | null>([[null, null]]);
+  let currentNode: MyNode | null = null;
+
+  currentNode = head;
+  while (currentNode) {
+    map.set(currentNode, new MyNode());
+    currentNode = currentNode.next;
+  }
+
+  currentNode = head;
+  while (currentNode) {
+    const newNode = map.get(currentNode)!;
+
+    newNode.val = currentNode.val;
+    newNode.next = map.get(currentNode.next)!;
+    newNode.random = map.get(currentNode.random)!;
+    currentNode = currentNode.next;
+  }
+
+  return map.get(head)!;
+}
