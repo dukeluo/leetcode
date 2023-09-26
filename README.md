@@ -54,6 +54,7 @@ Roadmap: https://neetcode.io/roadmap
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                                     | Medium     | [ts](./TypeScript/143.reorder-list.ts)                                                        | Linked List      |
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                             | Medium     | [ts](./TypeScript/19.remove-nth-node-from-end-of-list.ts)                                     | Linked List      |
 | 138 | [ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                  | Medium     | [ts](./TypeScript/138.copy-list-with-random-pointer.ts)                                       | Linked List      |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium     | [ts](./TypeScript/2.add-two-numbers.ts)                                                       | Linked List      |
 
 ### Others
 
