@@ -20,3 +20,18 @@ function hasCycle(head: ListNode | null): boolean {
 
   return false;
 }
+
+function hasCycle2(head: ListNode | null): boolean {
+  let slow = head;
+  let fast = head?.next;
+
+  while (slow && fast) {
+    if (slow === fast) {
+      return true;
+    }
+    slow = slow.next;
+    fast = fast.next?.next;
+  }
+
+  return false;
+}
