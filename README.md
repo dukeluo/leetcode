@@ -56,6 +56,7 @@ Roadmap: https://neetcode.io/roadmap
 | 138 | [ Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)                                  | Medium     | [ts](./TypeScript/138.copy-list-with-random-pointer.ts)                                       | Linked List      |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                               | Medium     | [ts](./TypeScript/2.add-two-numbers.ts)                                                       | Linked List      |
 | 141 | [ Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                          | Easy       | [ts](./TypeScript/141.linked-list-cycle.ts)                                                   | Linked List      |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Easy       | [ts](./TypeScript/226.invert-binary-tree.ts)                                                  | Linked List      |
 
 ### Others
 
