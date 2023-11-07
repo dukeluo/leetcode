@@ -59,6 +59,7 @@ Roadmap: https://neetcode.io/roadmap
 | 287 | [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                                           | Medium     | [ts](./TypeScript/287.find-the-duplicate-number.ts)                                           | Linked List      |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Easy       | [ts](./TypeScript/226.invert-binary-tree.ts)                                                  | Trees            |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     | [ts](./TypeScript/102.binary-tree-level-order-traversal.ts)                                   | Trees            |
+| 46  | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium     | [ts](./TypeScript/46.permutations.ts)                                                         | Backtracking     |
 
 ### Others
 
