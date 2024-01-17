@@ -60,6 +60,7 @@ Roadmap: https://neetcode.io/roadmap
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/description/)                                                               | Medium     | [ts](./TypeScript/146.lru-cache.ts)                                                           | Linked List      |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                         | Easy       | [ts](./TypeScript/226.invert-binary-tree.ts)                                                  | Trees            |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                           | Medium     | [ts](./TypeScript/102.binary-tree-level-order-traversal.ts)                                   | Trees            |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)                         | Medium     | [ts](./TypeScript/104.maximum-depth-of-binary-tree.ts)                                        | Trees            |
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                                                     | Medium     | [ts](./TypeScript/46.permutations.ts)                                                         | Backtracking     |
 
 ### Others
