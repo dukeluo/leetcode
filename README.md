@@ -66,6 +66,7 @@ Roadmap: https://neetcode.io/roadmap
 | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)                                               | Easy       | [ts](./TypeScript/572.subtree-of-another-tree.ts)                                             | Trees            |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | Medium     | [ts](./TypeScript/235.lowest-common-ancestor-of-a-binary-search-tree.ts)                      | Trees            |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                       | Medium     | [ts](./TypeScript/102.binary-tree-level-order-traversal.ts)                                   | Trees            |
+| 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/)                                       | Medium     | [ts](./TypeScript/199.binary-tree-right-side-view.ts)                                         | Trees            |
 | 46  | [Permutations](https://leetcode.com/problems/permutations/)                                                                                 | Medium     | [ts](./TypeScript/46.permutations.ts)                                                         | Backtracking     |
 
 ### Others
