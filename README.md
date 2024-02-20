@@ -72,6 +72,7 @@ Roadmap: https://neetcode.io/roadmap
 | 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                                                         | Medium     | [ts](./TypeScript/230.kth-smallest-element-in-a-bst.ts)                                       | Trees            |
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Medium     | [ts](./TypeScript/105.construct-binary-tree-from-preorder-and-inorder-traversal.ts)           | Trees            |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                                                       | Medium     | [ts](./TypeScript/46.permutations.ts)                                                         | Backtracking     |
+| 78   | [Subsets](https://leetcode.com/problems/subsets/description/)                                                                                                     | Medium     | [ts](./TypeScript/78.subsets.ts)                                                              | Backtracking     |
 
 ### Others
 
