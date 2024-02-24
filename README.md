@@ -73,6 +73,7 @@ Roadmap: https://neetcode.io/roadmap
 | 105  | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | Medium     | [ts](./TypeScript/105.construct-binary-tree-from-preorder-and-inorder-traversal.ts)           | Trees            |
 | 46   | [Permutations](https://leetcode.com/problems/permutations/)                                                                                                       | Medium     | [ts](./TypeScript/46.permutations.ts)                                                         | Backtracking     |
 | 78   | [Subsets](https://leetcode.com/problems/subsets/description/)                                                                                                     | Medium     | [ts](./TypeScript/78.subsets.ts)                                                              | Backtracking     |
+| 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                                                                     | Medium     | [ts](./TypeScript/39.combination-sum.ts)                                                      | Backtracking     |
 
 ### Others
 
