@@ -78,6 +78,7 @@ Roadmap: https://neetcode.io/roadmap
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                                                               | Medium     | [ts](./TypeScript/40.combination-sum-ii.ts)                                                   | Backtracking     |
 | 79   | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                         | Medium     | [ts](./TypeScript/79.word-search.ts)                                                          | Backtracking     |
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                                                                     | Medium     | [ts](./TypeScript/131.palindrome-partitioning.ts)                                             | Backtracking     |
+| 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)                                         | Medium     | [ts](./TypeScript/17.letter-combinations-of-a-phone-number.ts)                                | Backtracking     |
 
 ### Others
 
