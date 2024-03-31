@@ -3,21 +3,18 @@ function permute(nums: number[]): number[][] {
     return [[...nums]];
   }
 
-  const allPerms: number[][] = [];
+  const permutations: number[][] = [];
 
-  for (let _ of nums) {
-    const num = nums.pop()!;
-    const perms = permute(nums);
+  for (let i = 0; i < nums.length; i++) {
+    const num = nums.shift();
 
-    for (let perm of perms) {
-      perm.push(num);
-      allPerms.push(perm);
+    for (let perm of permute(nums)) {
+      permutations.push([num, ...perm]);
     }
-
-    nums.unshift(num);
+    nums.push(num);
   }
 
-  return allPerms;
+  return permutations;
 }
 
 function permute2(nums: number[], collected: number[] = []): number[][] {
@@ -38,3 +35,27 @@ function permute2(nums: number[], collected: number[] = []): number[][] {
 
   return allPerms;
 }
+
+function permute3(nums: number[]): number[][] {
+  const permutations: number[][] = [];
+
+  function backtrace(candidates: number[], permutation: number[]) {
+    if (candidates.length === 0) {
+      permutations.push(permutation.slice());
+      return;
+    }
+
+    for (let i = 0; i < nums.length; i++) {
+      const num = nums.shift();
+      backtrace([...nums], [...permutation, num]);
+      nums.push(num);
+    }
+  }
+
+  backtrace(nums, []);
+
+  return permutations;
+}
+
+console.log(permute([1, 2, 3]));
+console.log(permute3([1, 2, 3]));
