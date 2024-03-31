@@ -76,6 +76,7 @@ Roadmap: https://neetcode.io/roadmap
 | 39   | [Combination Sum](https://leetcode.com/problems/combination-sum/description/)                                                                                     | Medium     | [ts](./TypeScript/39.combination-sum.ts)                                                      | Backtracking     |
 | 90   | [Subsets II](https://leetcode.com/problems/subsets-ii/description/)                                                                                               | Medium     | [ts](./TypeScript/90.subsets-ii.ts)                                                           | Backtracking     |
 | 40   | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/)                                                                               | Medium     | [ts](./TypeScript/40.combination-sum-ii.ts)                                                   | Backtracking     |
+| 79   | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                         | Medium     | [ts](./TypeScript/79.word-search.ts)                                                          | Backtracking     |
 
 ### Others
 
