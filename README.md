@@ -80,6 +80,7 @@ Roadmap: https://neetcode.io/roadmap
 | 131  | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)                                                                     | Medium     | [ts](./TypeScript/131.palindrome-partitioning.ts)                                             | Backtracking     |
 | 17   | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)                                         | Medium     | [ts](./TypeScript/17.letter-combinations-of-a-phone-number.ts)                                | Backtracking     |
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                                                     | Easy       | [ts](./TypeScript/70.climbing-stairs.ts)                                                      | 1-D DP           |
+| 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                                                   | Easy       | [ts](./TypeScript/70.climbing-stairs.ts)                                                      | 1-D DP           |
 
 ### Others
 
