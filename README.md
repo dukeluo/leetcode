@@ -82,6 +82,7 @@ Roadmap: https://neetcode.io/roadmap
 | 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                                                                     | Easy       | [ts](./TypeScript/70.climbing-stairs.ts)                                                      | 1-D DP           |
 | 746  | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                                                   | Easy       | [ts](./TypeScript/70.climbing-stairs.ts)                                                      | 1-D DP           |
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/description/)                                                                                           | Medium     | [ts](./TypeScript/70.climbing-stairs.ts)                                                      | 1-D DP           |
+| 213  | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)                                                                                     | Medium     | [ts](./TypeScript/213.house-robber-ii.ts)                                                     | 1-D DP           |
 
 ### Others
 
