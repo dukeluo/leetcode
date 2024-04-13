@@ -84,6 +84,7 @@ Roadmap: https://neetcode.io/roadmap
 | 198  | [House Robber](https://leetcode.com/problems/house-robber/description/)                                                                                           | Medium     | [ts](./TypeScript/70.climbing-stairs.ts)                                                      | 1-D DP           |
 | 213  | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)                                                                                     | Medium     | [ts](./TypeScript/213.house-robber-ii.ts)                                                     | 1-D DP           |
 | 5    | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)                                                         | Medium     | [ts](./TypeScript/5.longest-palindromic-substring.ts)                                         | 1-D DP           |
+| 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)                                                                       | Medium     | [ts](./TypeScript/647.palindromic-substrings.ts)                                              | 1-D DP           |
 
 ### Others
 
