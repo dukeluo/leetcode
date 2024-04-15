@@ -87,6 +87,7 @@ Roadmap: https://neetcode.io/roadmap
 | 647  | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/)                                                                       | Medium     | [ts](./TypeScript/647.palindromic-substrings.ts)                                              | 1-D DP           |
 | 91   | [Decode Ways](https://leetcode.com/problems/decode-ways/description/)                                                                                             | Medium     | [ts](./TypeScript/91.decode-ways.ts)                                                          | 1-D DP           |
 | 300  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)                                                       | Medium     | [ts](./TypeScript/300.longest-increasing-subsequence.ts)                                      | 1-D DP           |
+| 152  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)                                                                   | Medium     | [ts](./TypeScript/152.maximum-product-subarray.ts)                                            | 1-D DP           |
 
 ### Others
 
